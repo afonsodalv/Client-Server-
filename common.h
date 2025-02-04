@@ -1,7 +1,3 @@
-//
-// Created by francisco on 11/23/24.
-//
-
 #ifndef COMMON_H
 #define COMMON_H
 
