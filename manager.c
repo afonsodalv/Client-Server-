@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <pthread.h>
-#include "manager.h"
 #include "common.h"
 
 #ifndef MSG_FICH
