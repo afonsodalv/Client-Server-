@@ -3,7 +3,6 @@
 #include <fcntl.h>
 #include <unistd.h>
 #include <sys/select.h>
-#include "feed.h"
 #include "common.h"
 
 int running = 1;
