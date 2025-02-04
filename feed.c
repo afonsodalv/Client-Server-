@@ -1,7 +1,3 @@
-#include <stdio.h>
-#include <signal.h>
-#include <fcntl.h>
-#include <unistd.h>
 #include <sys/select.h>
 #include "common.h"
 
